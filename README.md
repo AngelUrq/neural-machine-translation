@@ -16,4 +16,4 @@ The NMT system consists of a Bidirectional LSTM Encoder and a Unidirectional LST
 
 ## Acknowledgements
 
-This project is based on Assignment 4 of the CS224n: Natural Language Processing with Deep Learning course offered by Stanford University. The original assignment materials can be found [here]([http://web.stanford.edu/class/cs224n/index.html#schedule](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1204/)).
+This project is based on Assignment 4 of the CS224n: Natural Language Processing with Deep Learning course offered by Stanford University. The original assignment materials can be found [here](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1204/).
